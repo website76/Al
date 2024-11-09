@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "637033841427",
+    "firebase_url": "https://satyamteam-5ad0f-default-rtdb.firebaseio.com",
+    "project_id": "satyamteam-5ad0f",
+    "storage_bucket": "satyamteam-5ad0f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637033841427:android:574766935d0c04a63810e6",
+        "android_client_info": {
+          "package_name": "com.ayushsatyam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637033841427-jmu3oq7cqt0g3qd34plupntm7d0n6nje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGUcPBYFRoD4u1MVLZe3I-Q1cp41Ei6fQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637033841427-jmu3oq7cqt0g3qd34plupntm7d0n6nje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
